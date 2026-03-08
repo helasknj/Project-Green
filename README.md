@@ -2,6 +2,8 @@ Candidate Name: Hela Kasibhotla
 Scenario Chosen: Green-Tech Inventory Assistant
 Estimated Time Spent: 5-6 hours
 
+YouTube Demo Link: https://youtu.be/4EGZo-DTNjc 
+
 # Overview - Greenstock
 
 An AI-powered, sustainability-focused inventory management tool for small businesses, nonprofits, university labs, and anyone else managing small scale production.
